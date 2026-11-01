@@ -1,0 +1,8 @@
+{
+  "name": "Star Karate Club",
+  "description": "Официальный сайт Star Karate Club в Бишкеке. Шотокан Каратэ-До (SKIF & WKF). Главный тренер — сэнсэй Абдибек Апсатаров (III Дан). Запись на тренировки для детей и взрослых.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
